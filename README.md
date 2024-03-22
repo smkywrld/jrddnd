@@ -1,2 +1,2 @@
 # jrddnd
-juat for fun
+just for fun
